@@ -9,3 +9,5 @@ Feature Engineering: Identifying key factors contributing to churn, such as call
 Model Development: Implementing machine learning algorithms like logistic regression, decision trees, or neural networks to classify customers.
 
 Evaluation & Deployment: Measuring model accuracy and integrating it into the company’s customer management system for real-time predictions.
+
+By predicting churn early, the telecom company can take strategic actions to reduce customer loss, enhance loyalty, and boost overall profitability. This project serves as a crucial step in developing a data-driven approach to customer retention.
